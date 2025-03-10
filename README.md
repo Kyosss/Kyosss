@@ -1,21 +1,6 @@
 ![banner](https://static.wikia.nocookie.net/trigun/images/2/21/1342404982415.jpg/revision/latest/scale-to-width-down/1200?cb=20120909234001)
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22426
-Fork on GitHub
-7329
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Kyos</h1>
 <h3 align="center">Aqui está alguns dos meus projetos de estudos</h3>
 
@@ -62,5 +47,4 @@ Issues
 Pull Requests
 Join Community
 Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+
